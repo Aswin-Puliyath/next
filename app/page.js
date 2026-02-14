@@ -9,6 +9,9 @@ export default function Home() {
       <h1>
         Aswin
       </h1>
+      <p>
+        Para
+      </p>
     </div>
   );
 }
