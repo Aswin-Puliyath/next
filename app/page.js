@@ -6,6 +6,9 @@ export default function Home() {
       <button>
         Aswin
       </button>
+      <h1>
+        Aswin
+      </h1>
     </div>
   );
 }
