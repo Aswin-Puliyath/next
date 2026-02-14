@@ -12,6 +12,9 @@ export default function Home() {
       <p>
         Para
       </p>
+      <ul>
+        <li>list</li>
+      </ul>
     </div>
   );
 }
